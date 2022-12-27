@@ -61,8 +61,8 @@
 
 uint32_t tester;
 uint32_t tester_2;
-uint32_T tester_DZ;
-
+uint32_t tester_DZ;
+uint32_t tester_DZ_2;
 //
 // Main
 //
@@ -146,6 +146,7 @@ void main(void)
         tester++;
         tester_2 ++;
         tester_DZ ++;
+        tester_DZ_2 ++ ;
     }
 }
 
